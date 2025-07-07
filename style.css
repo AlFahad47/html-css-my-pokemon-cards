@@ -120,7 +120,7 @@ h3 {
 
 .main-create {
   height: 1000px;
-  background-image: url(/images/background.jpg);
+  background-image: url(./images/background.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
